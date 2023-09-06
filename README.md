@@ -16,5 +16,4 @@ Once the dependencies are installed, you can run the Jupyter notebook to develop
 * <b>Feature engineering</b> This section creates new features from the existing features.<br>
 * <b>Model selection</b> This section evaluates different machine learning models and selects the best model.<br>
 * <b>Model evaluation</b> This section evaluates the performance of the selected model on a held-out test set.<br>
-
-# I hope this helps!
+<b>I hope this helps!</b>
